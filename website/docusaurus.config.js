@@ -393,7 +393,7 @@ const config = {
       prism: {
         theme: themes.github,
         darkTheme: themes.dracula,
-        additionalLanguages: ["rust", "java", "groovy", "python", "ruby"],
+        additionalLanguages: ["rust", "java", "groovy", "python", "ruby", "cpp"],
       },
       zoom: {
         selector: "img:not(a img)",
